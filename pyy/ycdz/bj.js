@@ -13,7 +13,7 @@
 
 [rewrite_local]
 
-^https:\/\/user-kaji-api\.b612kaji\.com\/v1\/purchase\/subscription\/subscriber\/status url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/bj.js
+^https:\/\/user-kaji-api\.b612kaji\.com\/v1\/purchase\/subscription\/subscriber\/status url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/bj.js
 
 [mitm] 
 hostname = user-kaji-api.b612kaji.com
