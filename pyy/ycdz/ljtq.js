@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/ljwapi\.baichuan\.tech url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ljtq.js
+^https:\/\/ljwapi\.baichuan\.tech url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/ljtq.js
 
 [mitm] 
 
