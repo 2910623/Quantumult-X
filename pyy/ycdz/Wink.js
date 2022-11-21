@@ -16,7 +16,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info_by_group url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Wink.js
+^https:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info_by_group url script-response-body https://raw.githubusercontent.com/29106223/Quantumult-X/main/pyy/ycdz/Wink.js
 
 [mitm] 
 
