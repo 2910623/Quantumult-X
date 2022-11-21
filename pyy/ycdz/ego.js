@@ -15,7 +15,7 @@ TG频道群：https://t.me/py
 
 [rewrite_local]
 
-^https?:\/\/api\.pxmage\.com\/egoreader\/user\/info url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ego.js
+^https?:\/\/api\.pxmage\.com\/egoreader\/user\/info url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/ego.js
 
 [mitm] 
 
