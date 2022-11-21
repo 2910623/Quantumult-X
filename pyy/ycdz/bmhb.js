@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/zebra\.maka\.im\/api\/user\/info url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/bmhb.js
+^https:\/\/zebra\.maka\.im\/api\/user\/info url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/bmhb.js
 
 [mitm] 
 
