@@ -13,7 +13,7 @@ TG群：https://t.me/plus8889
 
 [rewrite_local]
 
-https:\/\/api4\.bybutter\.com\/v4\/* url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hy.js
+https:\/\/api4\.bybutter\.com\/v4\/* url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/hy.js
 
 
 
