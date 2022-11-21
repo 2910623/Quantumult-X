@@ -14,7 +14,7 @@ TG反馈群：https://t.me/plus8889
 *******************************
 [rewrite_local]
 
-^https:\/\/changeclothes\.szsszykj\.com\/interface\/GetIosVip.php url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/aihlx.js
+^https:\/\/changeclothes\.szsszykj\.com\/interface\/GetIosVip.php url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/aihlx.js
 
 [mitm]
 hostname = changeclothes.szsszykj.com
