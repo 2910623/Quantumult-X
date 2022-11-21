@@ -15,7 +15,7 @@ TG反馈群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Photoshop.js
+^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/Photoshop.js
 
 [mitm] 
 
