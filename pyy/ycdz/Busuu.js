@@ -16,7 +16,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https?:\/\/(.*.*.)\/users\/me url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Busuu.js
+^https?:\/\/(.*.*.)\/users\/me url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/Busuu.js
 
 hostname = *.boshu.*,*.bosuu.com,*.busuu.com
 
