@@ -13,7 +13,7 @@
 
 [rewrite_local]
 
-^https:\/\/subscription-api\.notedapp\.io\/api\/verifyReceipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/noteb.js
+^https:\/\/subscription-api\.notedapp\.io\/api\/verifyReceipt url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/noteb.js
 
 [mitm] 
 hostname = subscription-api.notedapp.io
