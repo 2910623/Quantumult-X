@@ -15,7 +15,7 @@ TG反馈群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https:\/\/apigate\.zymk\.cn url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zymk.js
+^https:\/\/apigate\.zymk\.cn url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/zymk.js
 
 [mitm] 
 hostname = apigate.zymk.cn
