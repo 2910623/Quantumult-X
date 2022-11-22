@@ -15,7 +15,7 @@ TG频道群：https://t.me/py
 
 [rewrite_local]
 
-http:\/\/iosv2\.cjapi\.wufan88\.com\/user\/.+ url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wfzy.js
+http:\/\/iosv2\.cjapi\.wufan88\.com\/user\/.+ url script-response-body https://raw.githubusercontent.com/2910623/Quantumult-X/main/pyy/ycdz/wfzy.js
 
 [mitm] 
 
